@@ -1,0 +1,3 @@
+Overcast,Cold,High,Strong	Yes	-4.576999309021395
+Rain,Cold,High,Weak	Yes	-4.240527072400182
+Sunny,Cool,High,Strong	No	-4.240527072400182
