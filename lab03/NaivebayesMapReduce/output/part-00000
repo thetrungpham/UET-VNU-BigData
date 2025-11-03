@@ -1,0 +1,18 @@
+# Class probabilities P(C):	
+Iris-setosa	0.333333
+Iris-versicolor	0.333333
+Iris-virginica	0.333333
+	
+# Feature statistics per class (mean, variance):	
+1_Iris-setosa	mean=5.006000	variance=0.121764
+1_Iris-versicolor	mean=5.936000	variance=0.261104
+1_Iris-virginica	mean=6.588000	variance=0.396256
+2_Iris-setosa	mean=3.418000	variance=0.142276
+2_Iris-versicolor	mean=2.770000	variance=0.096500
+2_Iris-virginica	mean=2.974000	variance=0.101924
+3_Iris-setosa	mean=1.464000	variance=0.029504
+3_Iris-versicolor	mean=4.260000	variance=0.216400
+3_Iris-virginica	mean=5.552000	variance=0.298496
+4_Iris-setosa	mean=0.244000	variance=0.011264
+4_Iris-versicolor	mean=1.326000	variance=0.038324
+4_Iris-virginica	mean=2.026000	variance=0.073924
